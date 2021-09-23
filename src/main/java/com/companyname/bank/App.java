@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "TEST COMMIT 1 git hub hook test " );
+        System.out.println( "TEST COMMIT 1 git hub hook test1 " );
     }
 }
